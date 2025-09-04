@@ -1,17 +1,18 @@
-# Template Portfolio
-This will be your portfolio repository. Use this as a [template repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-template-repository) and customize it to your own tastes. We gave you a starting point with a space to describe yourself and a link to where your assignment 1 file can be.
+# Table of Contents
+[Link to Assignment 1](assignments/assignment1.md)
+
+# Class Portfolio
+This repository contains my work for 6.1040 at MIT. Each assignment will be added here as I complete it.  
 
 # About Me
-*My name is Amber Horvath, I'm a postdoctoral associate researching code comprehension interventions, it's nice to meet you! [Here is a link to my real website.](https://amberhorvath.com)
-Now you should write something about yourself here!*
+Hi, my name is Honorine Munezero. I’m majoring in Math and Computer Science at MIT. My academic interests include computational biology, software engineering, and data analysis.  
 
-Some fun facts about me:
-1. I love hockey.
-2. I do pottery.
-3. I have an extra bone in my right foot.
+Some quick facts about me:
+1. I enjoy making art in my free time.  
+2. I love staying active.  
+3. I’m passionate about continuous learning and self-improvement.  
 
 ![picture of snow leopard mama and baby](https://pbs.twimg.com/media/GzYlia3XMAAWfm4?format=jpg&name=4096x4096)
 
-
 # Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
+- [Assignment 1](assignments/assignment1.md)
