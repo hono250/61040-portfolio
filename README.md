@@ -1,6 +1,3 @@
-# Table of Contents
-[Link to Assignment 1](assignments/assignment1.md)
-
 # Class Portfolio
 This repository contains my work for 6.1040 at MIT. Each assignment will be added here as I complete it.  
 
