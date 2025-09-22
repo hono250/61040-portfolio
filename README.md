@@ -14,4 +14,4 @@ Some quick facts about me:
 # Table of Contents
 - [Assignment 1](assignments/assignment1.md)
 - [Problem Set 1](assignments/ProblemSet1.md)
-- [Problem Set 2](assignments/ProblemSet2.md)
+- [Problem Set 2](assignments/problemSet2.md)
