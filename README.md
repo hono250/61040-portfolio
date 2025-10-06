@@ -15,3 +15,4 @@ Some quick facts about me:
 - [Assignment 1](assignments/assignment1.md)
 - [Problem Set 1](assignments/ProblemSet1.md)
 - [Problem Set 2](assignments/problemSet2.md)
+- [Assignment 2](assignments/assignment2.md)
